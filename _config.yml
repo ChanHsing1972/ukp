@@ -134,7 +134,7 @@ comments:
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
       - ChanHsing1972
-    proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
+    proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
