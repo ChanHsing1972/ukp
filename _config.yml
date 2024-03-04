@@ -141,9 +141,10 @@ comments:
   valine:
     app_id      : t2dFl92U3OFvMhF5M2iS9x3x-gzGzoHsz # LeanCloud App id
     app_key     : 29wc9iosvUg6RexwEfaumMo9 # LeanCloud App key
-    placeholder : 欸嘿。要不要说两句？# Prompt information
-    visitor     : # false (default)
+    placeholder : 欸嘿。要不要说两句？
+    visitor     : true
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    enableQQ    : true
 
 
 ## => Pageview
