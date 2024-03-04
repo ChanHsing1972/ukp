@@ -24,3 +24,5 @@ header:
       tr      : &TR       Arşivdekiler
       # @end locale config
     url: /archive.html
+  - title: Github
+    url: https://ChanHsing1972.github.io
