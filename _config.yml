@@ -139,6 +139,7 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
+    el          : '#vcomments'
     app_id      : t2dFl92U3OFvMhF5M2iS9x3x-gzGzoHsz # LeanCloud App id
     app_key     : 29wc9iosvUg6RexwEfaumMo9 # LeanCloud App key
     placeholder : 随便说两句？ # Prompt information
